@@ -1,0 +1,3 @@
+build/
+server/go.lua
+.DS_Store
