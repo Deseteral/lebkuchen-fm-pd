@@ -1,6 +1,6 @@
 # Lebkuchen FM for 🟨 Playdate
 
-# How to run?
+## How to run?
 1. Connect Playdate to your computer.
 
 2. Build and upload game to device:
